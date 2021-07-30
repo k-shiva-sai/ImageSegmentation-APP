@@ -1,1 +1,1 @@
-# STREAMLIT-APP
+# ImageSegmentation-APP
